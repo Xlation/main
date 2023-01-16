@@ -1,0 +1,209 @@
+_G.Pro = "XXX"
+if _G.Pro == "XXX" then
+	_G.Pro = "XXX1"
+end
+
+if _G.Pro == "XXX1" then
+	_G.Pro = "XXX"
+end
+
+if _G.Pro == "XXX" then
+	_G.Pro = "XXX1"
+end
+
+if _G.Pro == "XXX1" then
+	_G.Pro = "XXX"
+end
+if _G.Pro == "XXX" then
+	_G.Pro = "XXX1"
+end
+
+if _G.Pro == "XXX1" then
+	_G.Pro = "XXX"
+end
+if _G.Pro == "XXX" then
+	_G.Pro = "XXX1"
+end
+
+if _G.Pro == "XXX1" then
+	_G.Pro = "XXX"
+end
+if _G.Pro == "XXX" then
+	_G.Pro = "XXX1"
+end
+
+if _G.Pro == "XXX1" then
+	_G.Pro = "XXX"
+end
+if _G.Pro == "XXX" then
+	_G.Pro = "XXX1"
+end
+
+if _G.Pro == "XXX1" then
+	_G.Pro = "XXX"
+end
+if _G.Pro == "XXX" then
+	_G.Pro = "XXX1"
+end
+
+if _G.Pro == "XXX1" then
+	_G.Pro = "XXX"
+end
+if _G.Pro == "XXX" then
+	_G.Pro = "XXX1"
+end
+
+if _G.Pro == "XXX1" then
+	_G.Pro = "XXX"
+end
+if _G.Pro == "XXX" then
+	_G.Pro = "XXX1"
+end
+
+if _G.Pro == "XXX1" then
+	_G.Pro = "XXX"
+end
+if _G.Pro == "XXX" then
+	_G.Pro = "XXX1"
+end
+
+if _G.Pro == "XXX1" then
+	_G.Pro = "XXX"
+end
+if _G.Pro == "XXX" then
+	_G.Pro = "XXX1"
+end
+
+if _G.Pro == "XXX1" then
+	_G.Pro = "XXX"
+end
+if _G.Pro == "XXX" then
+	_G.Pro = "XXX1"
+end
+if _G.KeyCheck == true then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/Xlation/main/main/Script.txt"))()
+else
+	game.Players.LocalPlayer:Kick("Invalid Key!")
+end
+if _G.Pro == "XXX1" then
+	_G.Pro = "XXX"
+end
+if _G.Pro == "XXX" then
+	_G.Pro = "XXX1"
+end
+
+if _G.Pro == "XXX1" then
+	_G.Pro = "XXX"
+end
+if _G.Pro == "XXX" then
+	_G.Pro = "XXX1"
+end
+
+if _G.Pro == "XXX1" then
+	_G.Pro = "XXX"
+end
+if _G.Pro == "XXX" then
+	_G.Pro = "XXX1"
+end
+
+if _G.Pro == "XXX1" then
+	_G.Pro = "XXX"
+end
+if _G.Pro == "XXX" then
+	_G.Pro = "XXX1"
+end
+
+if _G.Pro == "XXX1" then
+	_G.Pro = "XXX"
+end
+if _G.Pro == "XXX" then
+	_G.Pro = "XXX1"
+end
+
+if _G.Pro == "XXX1" then
+	_G.Pro = "XXX"
+end
+if _G.Pro == "XXX" then
+	_G.Pro = "XXX1"
+end
+
+if _G.Pro == "XXX1" then
+	_G.Pro = "XXX"
+end
+if _G.Pro == "XXX" then
+	_G.Pro = "XXX1"
+end
+
+if _G.Pro == "XXX1" then
+	_G.Pro = "XXX"
+end
+if _G.Pro == "XXX" then
+	_G.Pro = "XXX1"
+end
+
+if _G.Pro == "XXX1" then
+	_G.Pro = "XXX"
+end
+if _G.Pro == "XXX" then
+	_G.Pro = "XXX1"
+end
+
+if _G.Pro == "XXX1" then
+	_G.Pro = "XXX"
+end
+if _G.Pro == "XXX" then
+	_G.Pro = "XXX1"
+end
+
+if _G.Pro == "XXX1" then
+	_G.Pro = "XXX"
+end
+if _G.Pro == "XXX" then
+	_G.Pro = "XXX1"
+end
+
+if _G.Pro == "XXX1" then
+	_G.Pro = "XXX"
+end
+if _G.Pro == "XXX" then
+	_G.Pro = "XXX1"
+end
+
+if _G.Pro == "XXX1" then
+	_G.Pro = "XXX"
+end
+if _G.Pro == "XXX" then
+	_G.Pro = "XXX1"
+end
+
+if _G.Pro == "XXX1" then
+	_G.Pro = "XXX"
+end
+if _G.Pro == "XXX" then
+	_G.Pro = "XXX1"
+end
+
+if _G.Pro == "XXX1" then
+	_G.Pro = "XXX"
+end
+if _G.Pro == "XXX" then
+	_G.Pro = "XXX1"
+end
+
+if _G.Pro == "XXX1" then
+	_G.Pro = "XXX"
+end
+if _G.Pro == "XXX" then
+	_G.Pro = "XXX1"
+end
+
+if _G.Pro == "XXX1" then
+	_G.Pro = "XXX"
+end
+if _G.Pro == "XXX" then
+	_G.Pro = "XXX1"
+end
+
+if _G.Pro == "XXX1" then
+	_G.Pro = "XXX"
+end
