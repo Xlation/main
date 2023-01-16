@@ -1,0 +1,12 @@
+
+_G.KeyCheck = false
+
+if
+	_G.Key == "TESTERMAN"
+	or
+	_G.Key == "TESTERMAN1"
+	or
+	_G.Key == "TESTERMAN2"
+then
+	_G.KeyCheck = true
+end
