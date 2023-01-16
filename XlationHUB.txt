@@ -9,4 +9,6 @@ if
 	_G.Key == "TESTERMAN2"
 then
 	_G.KeyCheck = true
+	wait(0.5)
+	loadstring(game:HttpGet("https://github.com/Xlation/main/blob/main/XlationHUBx.txt"))()
 end
